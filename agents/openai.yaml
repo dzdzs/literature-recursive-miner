@@ -1,0 +1,4 @@
+interface:
+  display_name: "Literature Recursive Miner"
+  short_description: "Build recursive literature maps with strict DBLP BibTeX"
+  default_prompt: "Use this skill to discover and structure papers from seeds and citations."
